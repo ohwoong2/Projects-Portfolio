@@ -17,6 +17,7 @@
 | 2  | **SearchEngine Crontab Batch Indexing** | Crontab을 이용한 검색 엔진 배치 수집 | Linux, Crontab, Docker Compose, beautifulsoup4, ELK | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/yyyeun/FISA3-Crontab) | 2024-09-19 |
 | 3  | **PAM-password-quality** | PAM 사용으로 password 제약 설정| Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/PAM-password-quality) | 2024-09-20 |
 | 4  | **LinuxAverageLoadAnalysis** | Linux 시스템의 평균 부하(Average Load) 를 분석하고, 임계치를 초과할 경우 경고 메시지를 출력| Linux, stress | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/jjeong1015/WooriFISA-LinuxAverageLoadAnalysis) | 2024-09-23 |
+| 5  | **Docker-Image-Optimization** | Docker 이미지 최적화 | Docker | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/Docker-Image-Optimization) | 2024-09-24 |
 
 
 <br>
