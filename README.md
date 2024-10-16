@@ -30,6 +30,7 @@
 | 2  | **java_refactoringe** | 자바 리팩토링 프로젝트 | JAVA | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/ohwoong2/java_refactoring) | 2024-07-22 |
 | 3  | **jpa_mission** | JPA이해를 위해 문제 만들기 | JAVA, JPA | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/ohwoong2/jpa_mission) | 2024-08-01 |
 | 4  | **Ancestor-Love** | 예초, 벌초, 정원관리 플랫폼 개발 및 로그 데잍 분석 | Spring Boot, JPA, ELK | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-16 |
+| 5  | **terraform_s3** | Terraform을 이용한 AWS S3 버킷 설정 가이드 | Terraform, AWS | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/terrafrom_s3) | 2024-10-16 |
 
 
 <br>
