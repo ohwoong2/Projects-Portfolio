@@ -18,7 +18,7 @@
 | 3  | **PAM-password-quality** | PAM 사용으로 password 제약 설정| Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/PAM-password-quality) | 2024-09-20 |
 | 4  | **LinuxAverageLoadAnalysis** | Linux 시스템의 평균 부하(Average Load) 를 분석하고, 임계치를 초과할 경우 경고 메시지를 출력| Linux, stress | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/jjeong1015/WooriFISA-LinuxAverageLoadAnalysis) | 2024-09-23 |
 | 5  | **Docker-Image-Optimization** | Docker 이미지 최적화 | Docker | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/Docker-Image-Optimization) | 2024-09-24 |
-
+| 6  | **terraform_s3** | Terraform을 이용한 AWS S3 버킷 설정 가이드 | Terraform, AWS | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/terrafrom_s3) | 2024-10-16 |
 
 <br>
 
@@ -30,7 +30,7 @@
 | 2  | **java_refactoringe** | 자바 리팩토링 프로젝트 | JAVA | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/ohwoong2/java_refactoring) | 2024-07-22 |
 | 3  | **jpa_mission** | JPA이해를 위해 문제 만들기 | JAVA, JPA | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/ohwoong2/jpa_mission) | 2024-08-01 |
 | 4  | **Ancestor-Love** | 예초, 벌초, 정원관리 플랫폼 개발 및 로그 데잍 분석 | Spring Boot, JPA, ELK | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-16 |
-| 5  | **terraform_s3** | Terraform을 이용한 AWS S3 버킷 설정 가이드 | Terraform, AWS | 개인 프로젝트 | [GitHub 링크](https://github.com/ohwoong2/terrafrom_s3) | 2024-10-16 |
+
 
 
 <br>
